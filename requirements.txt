@@ -1,0 +1,10 @@
+# mediapipe_demo_bdss requirements
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+opencv-python>=4.1.1
+mediapipe>=0.8.3
+numpy>=1.18.5
+
+# Extras --------------------------------------
+ipython  # interactive notebook
