@@ -3,7 +3,7 @@ Eyelid and hand detection demos using webcam based on the [mediapipe](https://go
 
 ## Installation
 ```bash
-git clone git@github.com:arnabiswas/mediapipe_demo_bdss.git
+git clone https://github.com/arnabiswas/mediapipe_demo_bdss
 cd mediapipe_demo_bdss
 pip install -r requirements.txt
 ```
