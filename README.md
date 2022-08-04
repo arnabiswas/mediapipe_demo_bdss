@@ -1,5 +1,5 @@
 # Mediapipe demo
-Eyelid and hand detection demos using webcam based on the [mediapipe](https://google.github.io/mediapipe/) package.
+Eyelid and hand detection demos using images or webcam feed based on the [mediapipe](https://google.github.io/mediapipe/) package.
 
 ## Installation
 ```bash
